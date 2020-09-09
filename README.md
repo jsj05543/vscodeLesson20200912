@@ -70,4 +70,5 @@
         - anaconda
     1. その他拡張機能
         - Git History
-        - 
+        - HTML CSS Support
+        - vscode-icons
