@@ -41,9 +41,33 @@
 
 2. ## 拡張機能紹介
     1. 日本語化する拡張機能
+        - Japanese Language Pack for VS Code
     1. Markdownで利用拡張機能
+        - Markdownとは
+            - 文書を記述するための軽量マークアップ言語のひとつである
+        - Markdown All in One
+            - 便利なショートカットキーを提供
+        - Markdown Preview Enhanced
+            - VScode内、markdownをプレビューする
+        - Instant Markdown
+            - ブラウザでmarkdownをプレビューする
+        - その他MDに関する拡張機能[ここ](https://qiita.com/sola-msr/items/cfe448db958da3d08863)を参照
+ 
     1. HTMLサイト構築拡張機能
+        - HTML Preview
+        - Bootstrap 4
     1. Javaプログラム開発
+        - Java Extension Pack
+        - パス設定 
+            - 設定 -> java.home -> java.homeにインストールしたJDKのパスを設定
+            - vscode-java 0.65.0 から Java 11 が必須となった ため
+            - java11あればその他バージョンを利用も可
     1. Java+Spring　WEBApp開発
-    1. Pythonコード書くv
+        - Spring Boot Extension Pack    
+        - `<html xmlns:th="http://www.thymeleaf.org">`        
+    1. Pythonコード書く
+        - python
+        - anaconda
     1. その他拡張機能
+        - Git History
+        - 
