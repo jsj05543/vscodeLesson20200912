@@ -59,7 +59,7 @@
     1. Javaプログラム開発
         - Java Extension Pack
         - パス設定 
-            - 設定 -> java.home -> java.homeにインストールしたJDKのパスを設定
+            - 設定 -> java.home -> java.homeにインストールしたJDKのパスを設定ｖ
             - vscode-java 0.65.0 から Java 11 が必須となった ため
             - java11あればその他バージョンを利用も可
     1. Java+Spring　WEBApp開発
